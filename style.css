@@ -214,6 +214,9 @@ a{
 
     }
 
+    .button-intro:hover{
+        background: #7c5cffdb;
+    }
  
 /* Responsivo */ 
 
